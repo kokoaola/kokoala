@@ -9,9 +9,9 @@
 
 
 ## About me
-- 📱 I'm iOS Developer with passion for creating intuitive and impactful applications.
+- 📱 I'm iOS Developer Novice with passion for creating intuitive and impactful applications.
 
-- 🌱 Always learning and staying up-to-date with the latest in iOS and Swift.
+- 🌱 Always eager to learn and stay updated in iOS and Swift.
 
 ## Zenn
 https://zenn.dev/kokoaola
